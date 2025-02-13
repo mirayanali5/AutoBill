@@ -1,1 +1,1 @@
-# AutoBill
+AutoBill, our IoT-driven project, takes the hassle out of shopping. By seamlessly scanning RFID-tagged items, it autonomously adds them to your cart, ensuring a smooth and effortless shopping experience.
